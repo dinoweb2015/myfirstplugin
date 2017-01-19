@@ -1,0 +1,2 @@
+# myfirstplugin
+test cordova plugin
